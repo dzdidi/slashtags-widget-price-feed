@@ -8,6 +8,10 @@
     },
     "type": "exchange.price_history_timestamped",
     "version": "0.0.1",
+    "source": {
+        "name": "Bitfinex",
+        "url": "https://www.bitfinex.com/"
+    },
     "fields": [
         {
             "name": "BTC/USD",
